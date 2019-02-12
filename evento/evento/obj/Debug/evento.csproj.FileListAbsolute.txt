@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\evento\evento\bin\Debug\evento.exe.config
+C:\Users\Estudiante\programacion3\evento\evento\bin\Debug\evento.exe
+C:\Users\Estudiante\programacion3\evento\evento\bin\Debug\evento.pdb
+C:\Users\Estudiante\programacion3\evento\evento\obj\Debug\evento.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\evento\evento\obj\Debug\evento.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\evento\evento\obj\Debug\evento.exe
+C:\Users\Estudiante\programacion3\evento\evento\obj\Debug\evento.pdb
