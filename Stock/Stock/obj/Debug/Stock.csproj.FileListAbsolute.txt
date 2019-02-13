@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Estudiante\programacion3\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Estudiante\programacion3\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Estudiante\programacion3\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Estudiante\programacion3\Stock\Stock\obj\Debug\Stock.pdb
