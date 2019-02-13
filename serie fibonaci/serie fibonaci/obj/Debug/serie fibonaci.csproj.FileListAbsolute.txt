@@ -1,0 +1,7 @@
+D:\CastroDelga\serie fibonaci\serie fibonaci\bin\Debug\serie fibonaci.exe.config
+D:\CastroDelga\serie fibonaci\serie fibonaci\bin\Debug\serie fibonaci.exe
+D:\CastroDelga\serie fibonaci\serie fibonaci\bin\Debug\serie fibonaci.pdb
+D:\CastroDelga\serie fibonaci\serie fibonaci\obj\Debug\serie fibonaci.csprojAssemblyReference.cache
+D:\CastroDelga\serie fibonaci\serie fibonaci\obj\Debug\serie fibonaci.csproj.CoreCompileInputs.cache
+D:\CastroDelga\serie fibonaci\serie fibonaci\obj\Debug\serie fibonaci.exe
+D:\CastroDelga\serie fibonaci\serie fibonaci\obj\Debug\serie fibonaci.pdb
