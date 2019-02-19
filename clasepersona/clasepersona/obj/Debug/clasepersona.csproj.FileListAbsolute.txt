@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\clasepersona\clasepersona\bin\Debug\clasepersona.exe.config
+C:\Users\Estudiante\programacion3\clasepersona\clasepersona\bin\Debug\clasepersona.exe
+C:\Users\Estudiante\programacion3\clasepersona\clasepersona\bin\Debug\clasepersona.pdb
+C:\Users\Estudiante\programacion3\clasepersona\clasepersona\obj\Debug\clasepersona.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\clasepersona\clasepersona\obj\Debug\clasepersona.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\clasepersona\clasepersona\obj\Debug\clasepersona.exe
+C:\Users\Estudiante\programacion3\clasepersona\clasepersona\obj\Debug\clasepersona.pdb

@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\consultas\consultas\bin\Debug\consultas.exe.config
+C:\Users\Estudiante\programacion3\consultas\consultas\bin\Debug\consultas.exe
+C:\Users\Estudiante\programacion3\consultas\consultas\bin\Debug\consultas.pdb
+C:\Users\Estudiante\programacion3\consultas\consultas\obj\Debug\consultas.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\consultas\consultas\obj\Debug\consultas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\consultas\consultas\obj\Debug\consultas.exe
+C:\Users\Estudiante\programacion3\consultas\consultas\obj\Debug\consultas.pdb
