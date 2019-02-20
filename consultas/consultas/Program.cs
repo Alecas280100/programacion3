@@ -33,13 +33,12 @@ namespace consultas
            
             var consulta4 = from almu in Alumnos
                             group almu by almu.Sexo into sexo
-                            select new { Sexo =sexo.Key, cantidad = sexo.Count() };
+                            select new { Sexo =sexo.Key, cantidad=sexo.Count() };
 
-            //var consulta5 = from almu in Alumnos
-            //group almu by almu.Edad into edad
-            //select new { Edad = edad.Key, promedio = edad.GetEnumerator() };
-            //foreach (var grupoedad in consulta5)
-            //{ Console.WriteLine("{0} {1}", grupoedad.Edad, grupoedad.promedio); }
+            var consulta5 = from almu in Alumnos
+                            group almu by almu.Sexo into sexo
+                            select new { Sexo = sexo.Key, promedio=sexo.Average(pe => pe.Edad) };
+            
             Console.WriteLine("Consulta1:");
             foreach (var alumno in consulta1)
             {
@@ -62,8 +61,11 @@ namespace consultas
             Console.WriteLine("Consulta4:");
             foreach (var grupoedad in consulta4)
             { Console.WriteLine("{0} {1}", grupoedad.Sexo, grupoedad.cantidad); }
-            
-           
+
+            Console.WriteLine("Consulta5:");
+            foreach (var promedioedad in consulta5)
+            { Console.WriteLine("{0} {1}", promedioedad.Sexo, promedioedad.promedio); }
+
             Console.ReadKey();
         }
     }
