@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\burbuja mejorada\burbuja mejorada\bin\Debug\burbuja mejorada.exe.config
+C:\Users\Estudiante\programacion3\burbuja mejorada\burbuja mejorada\bin\Debug\burbuja mejorada.exe
+C:\Users\Estudiante\programacion3\burbuja mejorada\burbuja mejorada\bin\Debug\burbuja mejorada.pdb
+C:\Users\Estudiante\programacion3\burbuja mejorada\burbuja mejorada\obj\Debug\burbuja mejorada.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\burbuja mejorada\burbuja mejorada\obj\Debug\burbuja mejorada.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\burbuja mejorada\burbuja mejorada\obj\Debug\burbuja mejorada.exe
+C:\Users\Estudiante\programacion3\burbuja mejorada\burbuja mejorada\obj\Debug\burbuja mejorada.pdb
