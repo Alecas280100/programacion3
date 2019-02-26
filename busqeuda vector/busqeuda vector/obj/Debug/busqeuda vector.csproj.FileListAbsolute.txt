@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\busqeuda vector\busqeuda vector\obj\Debug\busqeuda vector.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\busqeuda vector\busqeuda vector\obj\Debug\busqeuda vector.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\busqeuda vector\busqeuda vector\bin\Debug\busqeuda vector.exe.config
+C:\Users\Estudiante\programacion3\busqeuda vector\busqeuda vector\bin\Debug\busqeuda vector.exe
+C:\Users\Estudiante\programacion3\busqeuda vector\busqeuda vector\bin\Debug\busqeuda vector.pdb
+C:\Users\Estudiante\programacion3\busqeuda vector\busqeuda vector\obj\Debug\busqeuda vector.exe
+C:\Users\Estudiante\programacion3\busqeuda vector\busqeuda vector\obj\Debug\busqeuda vector.pdb

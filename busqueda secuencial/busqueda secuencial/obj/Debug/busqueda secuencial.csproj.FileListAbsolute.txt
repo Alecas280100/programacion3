@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\busqueda secuencial\busqueda secuencial\bin\Debug\busqueda secuencial.exe.config
+C:\Users\Estudiante\programacion3\busqueda secuencial\busqueda secuencial\bin\Debug\busqueda secuencial.exe
+C:\Users\Estudiante\programacion3\busqueda secuencial\busqueda secuencial\bin\Debug\busqueda secuencial.pdb
+C:\Users\Estudiante\programacion3\busqueda secuencial\busqueda secuencial\obj\Debug\busqueda secuencial.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\busqueda secuencial\busqueda secuencial\obj\Debug\busqueda secuencial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\busqueda secuencial\busqueda secuencial\obj\Debug\busqueda secuencial.exe
+C:\Users\Estudiante\programacion3\busqueda secuencial\busqueda secuencial\obj\Debug\busqueda secuencial.pdb

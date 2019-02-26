@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\busqueda binaria\busqueda binaria\bin\Debug\busqueda binaria.exe.config
+C:\Users\Estudiante\programacion3\busqueda binaria\busqueda binaria\bin\Debug\busqueda binaria.exe
+C:\Users\Estudiante\programacion3\busqueda binaria\busqueda binaria\bin\Debug\busqueda binaria.pdb
+C:\Users\Estudiante\programacion3\busqueda binaria\busqueda binaria\obj\Debug\busqueda binaria.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\busqueda binaria\busqueda binaria\obj\Debug\busqueda binaria.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\busqueda binaria\busqueda binaria\obj\Debug\busqueda binaria.exe
+C:\Users\Estudiante\programacion3\busqueda binaria\busqueda binaria\obj\Debug\busqueda binaria.pdb
