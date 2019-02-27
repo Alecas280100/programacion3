@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\pila\pila\bin\Debug\pila.exe.config
+C:\Users\Estudiante\programacion3\pila\pila\bin\Debug\pila.exe
+C:\Users\Estudiante\programacion3\pila\pila\bin\Debug\pila.pdb
+C:\Users\Estudiante\programacion3\pila\pila\obj\Debug\pila.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\pila\pila\obj\Debug\pila.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\pila\pila\obj\Debug\pila.exe
+C:\Users\Estudiante\programacion3\pila\pila\obj\Debug\pila.pdb
