@@ -1,0 +1,7 @@
+C:\Users\Estudiante\programacion3\cola circular\cola circular\bin\Debug\cola circular.exe.config
+C:\Users\Estudiante\programacion3\cola circular\cola circular\bin\Debug\cola circular.exe
+C:\Users\Estudiante\programacion3\cola circular\cola circular\bin\Debug\cola circular.pdb
+C:\Users\Estudiante\programacion3\cola circular\cola circular\obj\Debug\cola circular.csprojAssemblyReference.cache
+C:\Users\Estudiante\programacion3\cola circular\cola circular\obj\Debug\cola circular.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\programacion3\cola circular\cola circular\obj\Debug\cola circular.exe
+C:\Users\Estudiante\programacion3\cola circular\cola circular\obj\Debug\cola circular.pdb
