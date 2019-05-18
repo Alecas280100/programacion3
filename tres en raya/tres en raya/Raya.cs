@@ -24,41 +24,58 @@ namespace tres_en_raya
         }
         public String marcar(int x, int y, char marca)
         {
-            if(turno==1)
+            int turnomarcacion = 0;
+            if (marca == 'X')
+                turnomarcacion = 1;
+            else
+                turnomarcacion = 2;
+            if (turnomarcacion == turno)
             {
-                if (marca == 'X')
+                if (tabla[x, y] == '-')
                 {
-                    if (tabla[x, y] == '-')
+                    tabla[x, y] = marca;
+                    if (ganador(marca))
                     {
-                        tabla[x, y] = marca;
+                        return "ganador:" + marca.ToString();
+                    }
+                    else
+                    {
+                        if (Empate())
+                        {
+                            return "resultado: empate";
+                        }
+                        else
+                        {
+                            turno = (turno % 2) + 1;
+                            return "Continuar: juego";
+                        }
                     }
                 }
                 else
-                    return "Error: turno incorrecto";
-                    
+                    return "error:posicion ocupada";
             }
-            if(turno==2)
-            {
-                if(marca=='O')
-                {
-                    if(tabla[x,y]=='-')
-                    {
-                        tabla[x, y] = marca;
-                    }
-                }
-              else
-                    return "Error: turno incorrecto";
-            }
+            else
+                return "error:turno incorrecto";
         }
         public Boolean ganador(char marca)
         {
-            bool gana = false;
+            Boolean gana = false;
             if (tabla[0, 0] == marca && tabla[0, 1] == marca && tabla[0, 2] == marca)
+            { gana = true; } 
+            if (tabla[0,0]  == marca && tabla[1,0]  == marca && tabla[2,0 ]==  marca)
+            { gana = true; }
+            if (tabla[0, 1] == marca && tabla[1, 1] == marca && tabla[2, 1] == marca)
+            { gana = true; }
+            if (tabla[0, 2] == marca && tabla[1, 2] == marca && tabla[2, 2] == marca)
             { gana = true; }
             if (tabla[1, 0] == marca && tabla[1, 1] == marca && tabla[1, 2] == marca)
             { gana = true; }
             if (tabla[2, 0] == marca && tabla[2, 1] == marca && tabla[2, 2] == marca)
-            { gana = true; }                                           
+            { gana = true; }
+            if (tabla[0, 0] == marca && tabla[1, 1] == marca && tabla[2, 2] == marca)
+            { gana = true; }
+            if (tabla[2, 0] == marca && tabla[1, 1] == marca && tabla[0, 2] == marca)
+            { gana = true; }
             return gana;
         }
         public Boolean Empate()
@@ -74,7 +91,18 @@ namespace tres_en_raya
             }
             return empate;
         }
-        
+        public void Reiniciar()
+        {
+            turno = 1;
+            tabla = new char[3, 3];
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    tabla[i, j] = '-';
+                }
+            }
+        }
 
     }
 }
