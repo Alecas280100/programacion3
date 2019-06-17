@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView
+		android:text="Ingrese la placa"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1" /
+	<EditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView1"
+		android:id="@+id/txtplaca" />
+	<TextView
+		android:text="Ingrese el tipo"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtplaca"
+		android:id="@+id/textView2" />
+	<EditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView2"
+		android:id="@+id/txttipo" />
+	<TextView
+		android:text="Ingrese el monto"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txttipo"
+		android:id="@+id/textView3" />
+	<EditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView3"
+		android:id="@+id/txtmonto" />
+	<TextView
+		android:text="Ingrese hora de ingreso"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtmonto"
+		android:id="@+id/textView4" />
+	<EditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView4"
+		android:id="@+id/txtingreso" />
+	<TextView
+		android:text="Ingrese hora de salida"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtingreso"
+		android:id="@+id/textView5" />
+	<EditText
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textView5"
+		android:id="@+id/txtsalida" />
+	<Button
+		android:text="Registrar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtsalida"
+		android:id="@+id/btnregistrar" />
+	<Button
+		android:text="Mostrar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btnregistrar"
+		android:id="@+id/btnmostrar" />
+	
+	
+</RelativeLayout>
