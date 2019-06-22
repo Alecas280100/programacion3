@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:scrollbars="vertical"
+	android:touchscreenBlocksFocus="false"
+	android:verticalScrollbarPosition="right">
 	<TextView
 		android:text="Introduzca los periodos"
 		android:textAppearance="?android:attr/textAppearanceSmall"
@@ -14,13 +18,14 @@
 		android:id="@+id/textView1" />
 	<EditText
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_height="31.0dp"
 		android:layout_below="@id/textView1"
-		android:id="@+id/txtperiodos" />
+		android:id="@+id/txtperiodos"
+		 />
 	<Button
 		android:text="Crear Flujos"
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_height="39.5dp"
 		android:layout_below="@id/txtperiodos"
 		android:id="@+id/btncrearflujos" />
 	<LinearLayout
@@ -34,7 +39,7 @@
 	<Button
 		android:text="Calcular"
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_height="41.0dp"
 		android:layout_below="@id/listatxt"
 		android:id="@+id/btncalcular" />
 	<TextView
@@ -48,25 +53,27 @@
 		android:text="Inversion Inicial"
 		android:textAppearance="?android:attr/textAppearanceSmall"
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_height="29.0dp"
 		android:layout_below="@id/lblresultado"
 		android:id="@+id/textView2" />
 	<EditText
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_height="29.5dp"
 		android:layout_below="@id/textView2"
-		android:id="@+id/txtinversion" />
+		android:id="@+id/txtinversion"
+		 />
 	<TextView
 		android:text="Tasa"
 		android:textAppearance="?android:attr/textAppearanceSmall"
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_height="20.0dp"
 		android:layout_below="@id/txtinversion"
 		android:id="@+id/textView3" />
 	<EditText
 		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:layout_height="27.0dp"
 		android:layout_below="@id/textView3"
-		android:id="@+id/txttasa" />
+		android:id="@+id/txttasa"
+		/>
 	
 </RelativeLayout>
